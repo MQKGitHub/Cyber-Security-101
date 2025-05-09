@@ -26,7 +26,7 @@ Welcome to my journey through the [Cyber Security 101](https://tryhackme.com/pat
 
 ### 📁 Section Index
 
-Below is a list of sections completed, each accompanied by rooms with detailed write-up:
+Below is a list of sections to be completed, each accompanied by rooms and detailed write-ups:
 
 | #  | Section Name                         | Topic                                                                    | Link                                                                |
 |----|--------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|
