@@ -30,9 +30,9 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 
 | #  | Section Name                         | Topic                                                                    | Link                                                                |
 |----|--------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|
-| 1  | Start Your Cyber Security Journey    | Learn about offensive and defensive security.                            | Link Coming Soon                                                    |
-| 2  | Linux Fundamentals                   | Details will be added upon completion.                                   | Link Coming Soon                                                    |
-| 3  | Windows and AD Fundamentals          | Details will be added upon completion.                                   | Link Coming Soon                                                    |
+| 1  | Start Your Cyber Security Journey    | Learn about offensive and defensive security.                            | [View](https://github.com/MQKGitHub/Introduction-to-Cyber-Security) |
+| 2  | Linux Fundamentals                   | Learn how to use the Linux operating system, a critical skill in cyber security. | [View](https://github.com/MQKGitHub/Linux-Fundamentals) |
+| 3  | Windows and AD Fundamentals          | Learning these basics will help you in identifying, exploiting, and defending Windows. | [View](https://github.com/MQKGitHub/Windows-Fundamentals) |
 | 4  | Command Line                         | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 | 5  | Networking                           | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 | 6  | Cryptography                         | Details will be added upon completion.                                   | Link Coming Soon                                                    |
