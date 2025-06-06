@@ -38,7 +38,7 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 | 6  | Cryptography                         | Study encryption algorithms and hashing applications.                    | [View](https://github.com/MQKGitHub/Cryptography/)                  |
 | 7  | Exploitation Basics                  | Exploit real-world vulnerabilities with Metasploit framework techniques. | [View](https://github.com/MQKGitHub/Exploitation-Basics/)           |
 | 8  | Web Hacking                          | Learn web app security, JavaScript, SQL, and BurpSuite testing.          | [View](https://github.com/MQKGitHub/Web-Hacking/)                   |
-| 9  | Offensive Security Tooling           | Details will be added upon completion.                                   | Link Coming Soon                                                    |
+| 9  | Offensive Security Tooling           | Learn to pentest passwords, directories, DBs with Hydra/Gobuster/SQLMap. | [View](https://github.com/MQKGitHub/Offensive-Security-Tooling/)    |
 | 10 | Defensive Security                   | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 | 11 | Security Solutions                   | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 | 12 | Defensive Security Tooling           | Details will be added upon completion.                                   | Link Coming Soon                                                    |
