@@ -6,7 +6,7 @@ Welcome to my journey through the [Cyber Security 101](https://tryhackme.com/pat
 
 ### 📚 Path Overview
 
-- **Modules:** 13
+- **Modules:** 12
 - **Rooms:** 54
 - **Difficulty:** Easy
 - **Focus Areas:**
@@ -20,7 +20,6 @@ Welcome to my journey through the [Cyber Security 101](https://tryhackme.com/pat
   - Defensive security practices, SIEM, digital forensics, incident response
   - Security solutions and technologies (Firewalls, IDS, Vulnerability Scanners)
   - Defensive security tooling (CyberChef, CAPA, REMnux, FlareVM)
-  - Cyber security career guidance and principles
 
 ---
 
