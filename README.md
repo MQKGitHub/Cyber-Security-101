@@ -42,7 +42,6 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 | 10 | Defensive Security                   | Build SOC, forensics, and incident response skills.                      | [View](https://github.com/MQKGitHub/Defensive-Security/)            |
 | 11 | Security Solutions                   | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 | 12 | Defensive Security Tooling           | Details will be added upon completion.                                   | Link Coming Soon                                                    |
-| 13 | Build Your Cyber Security Career     | Details will be added upon completion.                                   | Link Coming Soon                                                    |
 
 ---
 
