@@ -7,7 +7,7 @@ Welcome to my journey through the [Cyber Security 101](https://tryhackme.com/pat
 ### 📚 Path Overview
 
 - **Modules:** 12
-- **Rooms:** 54
+- **Rooms:** 51
 - **Difficulty:** Easy
 - **Focus Areas:**
   - Introduction to Cyber Security (Offensive & Defensive)
