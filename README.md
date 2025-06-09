@@ -39,7 +39,7 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 | 8  | Web Hacking                          | Learn web app security, JavaScript, SQL, and BurpSuite testing.          | [View](https://github.com/MQKGitHub/Web-Hacking/)                   |
 | 9  | Offensive Security Tooling           | Learn to pentest passwords, directories, DBs with Hydra/Gobuster/SQLMap. | [View](https://github.com/MQKGitHub/Offensive-Security-Tooling/)    |
 | 10 | Defensive Security                   | Build SOC, forensics, and incident response skills.                      | [View](https://github.com/MQKGitHub/Defensive-Security/)            |
-| 11 | Security Solutions                   | Topic details and links will be added when section is started.           | View                                                    |
+| 11 | Security Solutions                   | Train on firewalls, IDS, Vulnerability scanners, and SIEM defenses.      | [View](https://github.com/MQKGitHub/Security-Solutions/)            |
 | 12 | Defensive Security Tooling           | Topic details and links will be added when section is started.           | View                                                   |
 
 ---
