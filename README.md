@@ -54,4 +54,4 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 
 I completed the **Cyber Security 101** path on TryHackMe.  
 You can view my certificate here:  
-🔗 [View Certificate on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EM0NNM7EQG.png)
+🔗 [View Certificate on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LP8IH5CDHG.png)
