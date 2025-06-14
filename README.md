@@ -49,3 +49,9 @@ Below is a list of sections to be completed, each accompanied by rooms and detai
 - [My Pre-Security Path Repository](https://github.com/MQKGitHub/Pre-Security)
 
 ---
+
+### 🎓 Certificate
+
+I completed the **Cyber Security 101** path on TryHackMe.  
+You can view my certificate here:  
+🔗 [View Certificate on TryHackMe](https://tryhackme.com/certificate/THM-LP8IH5CDHG)
